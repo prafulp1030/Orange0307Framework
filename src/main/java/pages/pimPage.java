@@ -12,5 +12,11 @@ public class pimPage {
 		System.out.println(lname);
 		System.out.println("Employee added");
 	}
+	
+	
+	public void searchEmployee()
+	{
+		System.out.println("Employee Search Functionality");
+	}
 
 }
