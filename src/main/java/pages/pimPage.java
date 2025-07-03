@@ -19,4 +19,9 @@ public class pimPage {
 		System.out.println("Employee Search Functionality");
 	}
 
+	
+	public void deleteEmployee()
+	{
+		System.out.println("Employee delete Functionality");
+	}
 }

@@ -22,5 +22,7 @@ public class PimPageTest {
 		pim.addEmployee("Adiit", "abc");
 
 		pim.searchEmployee();
+		
+		pim.deleteEmployee();
 	}
 }
